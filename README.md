@@ -6,11 +6,11 @@ My task wass to build a text editor that runs in the browser. The app is a singl
 
 The Render link is here:
 
-https://
+https://pwa-text-editor-j87s.onrender.com
 
 GitHub repo link:
 
-http://
+[http://](https://github.com/Splash1972/pwa-text-editor)
 
 Screenshot:
 
