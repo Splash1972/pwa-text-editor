@@ -12,9 +12,12 @@ GitHub repo link:
 
 [http://github.com/Splash1972/pwa-text-editor](https://github.com/Splash1972/pwa-text-editor)
 
-Screenshot:
+Screenshots:
+
+![pwa](https://github.com/user-attachments/assets/f1d298ba-b53c-41c3-84a2-55e143e893fa)
 
 
+![pwa2](https://github.com/user-attachments/assets/fa27bef3-b114-4588-b81d-dc5ec211ce91)
 
 ## User Story
 
