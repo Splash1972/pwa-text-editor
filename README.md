@@ -19,6 +19,8 @@ Screenshots:
 
 ![pwa2](https://github.com/user-attachments/assets/fa27bef3-b114-4588-b81d-dc5ec211ce91)
 
+The technologies feature the use of localstorage (seen in the screenshot) and IndexedDB
+
 ## User Story
 
 ```md
