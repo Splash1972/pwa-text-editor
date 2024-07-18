@@ -38,15 +38,15 @@ new StaleWhileRevalidate({
 })
 );
 
-registerRoute(
-  ({ request }) => ["style", "script", "worker"].includes(request.destination),
-  new NetworkFirst({
-    cacheName: 'asset-cache',
-    plugins: [
-      new CacheableResponsePlugin({
-        statuses: [0, 200],
-      }),
-    ],
-    fallbackToCache: offlineFallback,
-  }),
-);
+// registerRoute(
+//   ({ request }) => ["style", "script", "worker"].includes(request.destination),
+//   new NetworkFirst({
+//     cacheName: 'asset-cache',
+//     plugins: [
+//       new CacheableResponsePlugin({
+//         statuses: [0, 200],
+//       }),
+//     ],
+//     fallbackToCache: offlineFallback,
+//   }),
+// );

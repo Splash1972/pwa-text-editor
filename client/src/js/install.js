@@ -20,5 +20,6 @@ butInstall.addEventListener('click', async () => {
 
 // TODO: Add a handler for the `appinstalled` event
 window.addEventListener('appinstalled', (event) => {
-window.deferredPrompt = null;
+    console.log('App installed');
+    window.deferredPrompt = null;
 });
