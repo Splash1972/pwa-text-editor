@@ -10,7 +10,7 @@ https://pwa-text-editor-j87s.onrender.com
 
 GitHub repo link:
 
-[http://](https://github.com/Splash1972/pwa-text-editor)
+[http://github.com/Splash1972/pwa-text-editor](https://github.com/Splash1972/pwa-text-editor)
 
 Screenshot:
 
